@@ -1,0 +1,24 @@
+c:\users\ruwan ranganath\documents\visual studio 2013\Projects\Curier Client Portal\Curier Client Portal\bin\Curier Client Portal.dll.config
+c:\users\ruwan ranganath\documents\visual studio 2013\Projects\Curier Client Portal\Curier Client Portal\bin\Curier Client Portal.dll
+c:\users\ruwan ranganath\documents\visual studio 2013\Projects\Curier Client Portal\Curier Client Portal\bin\Curier Client Portal.pdb
+c:\users\ruwan ranganath\documents\visual studio 2013\Projects\Curier Client Portal\Curier Client Portal\obj\Debug\Curier Client Portal.csprojResolveAssemblyReference.cache
+c:\users\ruwan ranganath\documents\visual studio 2013\Projects\Curier Client Portal\Curier Client Portal\obj\Debug\Curier Client Portal.dll
+c:\users\ruwan ranganath\documents\visual studio 2013\Projects\Curier Client Portal\Curier Client Portal\obj\Debug\Curier Client Portal.pdb
+D:\Curier Client Portal\Curier Client Portal\bin\Curier Client Portal.dll.config
+D:\Curier Client Portal\Curier Client Portal\bin\Curier Client Portal.dll
+D:\Curier Client Portal\Curier Client Portal\bin\Curier Client Portal.pdb
+D:\Curier Client Portal\Curier Client Portal\obj\Debug\Curier Client Portal.csprojResolveAssemblyReference.cache
+D:\Curier Client Portal\Curier Client Portal\obj\Debug\Curier Client Portal.dll
+D:\Curier Client Portal\Curier Client Portal\obj\Debug\Curier Client Portal.pdb
+E:\Tutorial\Curier Client Portal\Curier Client Portal\bin\Curier Client Portal.dll.config
+E:\Tutorial\Curier Client Portal\Curier Client Portal\bin\Curier Client Portal.dll
+E:\Tutorial\Curier Client Portal\Curier Client Portal\bin\Curier Client Portal.pdb
+E:\Tutorial\Curier Client Portal\Curier Client Portal\obj\Debug\Curier Client Portal.csprojResolveAssemblyReference.cache
+E:\Tutorial\Curier Client Portal\Curier Client Portal\obj\Debug\Curier Client Portal.dll
+E:\Tutorial\Curier Client Portal\Curier Client Portal\obj\Debug\Curier Client Portal.pdb
+C:\Users\Ruwan Ranganath\Documents\Visual Studio 2013\Projects\Curier Client Portal\bin\Curier Client Portal.dll.config
+C:\Users\Ruwan Ranganath\Documents\Visual Studio 2013\Projects\Curier Client Portal\bin\Curier Client Portal.dll
+C:\Users\Ruwan Ranganath\Documents\Visual Studio 2013\Projects\Curier Client Portal\bin\Curier Client Portal.pdb
+C:\Users\Ruwan Ranganath\Documents\Visual Studio 2013\Projects\Curier Client Portal\obj\Debug\Curier Client Portal.csprojResolveAssemblyReference.cache
+C:\Users\Ruwan Ranganath\Documents\Visual Studio 2013\Projects\Curier Client Portal\obj\Debug\Curier Client Portal.dll
+C:\Users\Ruwan Ranganath\Documents\Visual Studio 2013\Projects\Curier Client Portal\obj\Debug\Curier Client Portal.pdb

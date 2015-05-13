@@ -1,0 +1,123 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="backlayout.master.cs" Inherits="Curier_Client_Portal.Dashboard.backlayout" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+        <meta name="product" content=" Framek"/>
+
+
+        <link href="../css/metro-bootstrap.css" rel="stylesheet"/>
+        <link href="../css/metro-bootstrap-responsive.css" rel="stylesheet"/>
+        <link href="../css/iconFont.css" rel="stylesheet"/>
+        <link href="../css/docs.css" rel="stylesheet"/>
+        <link href="../js/prettify/prettify.css" rel="stylesheet"/>
+
+        <!-- Load JavaScript Libraries -->
+        <script src="../js/jquery/jquery.min.js"></script>
+        <script src="../js/jquery/jquery.widget.min.js"></script>
+        <script src="../js/jquery/jquery.mousewheel.js"></script>
+        <script src="../js/prettify/prettify.js"></script>
+
+        <!-- Metro UI CSS JavaScript plugins -->
+        <script src="../js/load-metro.js"></script>
+
+        <!-- Local JavaScript -->
+        <script src="../js/docs.js"></script>
+        <script src="../js/github.info.js"></script>
+
+        <title>NDExpress Client System</title>
+       
+    </asp:ContentPlaceHolder>
+
+
+
+</head>
+<body class="metro">
+
+    <div>
+        <asp:ContentPlaceHolder ID="navbar" runat="server">
+            <header class="bg-dark" data-load="header.aspx"></header>
+        </asp:ContentPlaceHolder>
+    </div>
+
+
+
+
+    <div>
+        <asp:ContentPlaceHolder ID="backnavbar" runat="server">
+            <div class="container">
+                <div class="grid">
+                    <div class="row">
+                        <nav class="horizontal-menu">
+                            <ul>
+                                <li><a href="Default.aspx">Dashboard</a></li>
+                                <li><a href="uploadorder.aspx">Upload Sheet</a></li>
+                                <li><a href="Invidualpackage.aspx">Individual Package</a></li>
+
+                                <li>
+                                    <a class="dropdown-toggle" href="#">Check Status</a>
+                                    <ul class="dropdown-menu" data-role="dropdown">
+                                        <li><a href="#">Summery</a></li>
+                                        <li><a href="#">Pending Delivery</a></li>
+                                        <li><a href="#">Deliverd</a></li>
+                                        <li><a href="#">Return Packages</a></li>
+                                    </ul>
+                                </li>
+
+                                 <li><a href="#">Support Center</a></li>
+
+
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            <hr/>
+
+
+
+        </asp:ContentPlaceHolder>
+    </div>
+
+
+
+
+
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="contentbody" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+
+    <div>
+        <asp:ContentPlaceHolder ID="footer" runat="server">
+
+
+          
+<%--            <div class="bg-dark">
+                <div class="container tertiary-text bg-dark fg-white" style="padding: 10px">
+                    2014, NDExpress Client System &copy; by  <a href="mailto:info@asyncit.org" class="fg-yellow">AsyncIT-Team</a>
+                </div>
+            </div>--%>
+
+            <script src="../js/hitua.js"></script>
+
+
+        </asp:ContentPlaceHolder>
+    </div>
+
+</body>
+</html>
